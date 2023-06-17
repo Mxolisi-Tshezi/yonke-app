@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yonke-app/static/css/main.43fc1d6a.css",
+    "main.js": "/yonke-app/static/js/main.831ca761.js",
+    "static/media/camera.jpg": "/yonke-app/static/media/camera.a5cc41a4c4f09b31bf69.jpg",
+    "static/media/fa-solid-900.ttf": "/yonke-app/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/yonke-app/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/yonke-app/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/yonke-app/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/yonke-app/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/yonke-app/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/yonke-app/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/yonke-app/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/yonke-app/index.html",
+    "main.43fc1d6a.css.map": "/yonke-app/static/css/main.43fc1d6a.css.map",
+    "main.831ca761.js.map": "/yonke-app/static/js/main.831ca761.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43fc1d6a.css",
+    "static/js/main.831ca761.js"
+  ]
+}
